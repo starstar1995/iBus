@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.LoginInActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="117dp"
+        android:orientation="vertical"></LinearLayout>
+
+    <EditText
+        android:id="@+id/edit_account"
+        android:layout_width="match_parent"
+        android:layout_height="136dp"
+
+        android:ems="10"
+        android:hint="account"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/black"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="62dp" />
+
+    <EditText
+        android:id="@+id/edit_password"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColor="@android:color/black"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="165dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:orientation="vertical"></LinearLayout>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:background="@drawable/button_selector"
+        android:gravity="center"
+
+        android:onClick="btnLogin"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:text="Login"
+        android:textColor="@android:color/black"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="253dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:orientation="vertical"></LinearLayout>
+
+    <Button
+        android:id="@+id/ID_visitor"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:background="@drawable/button_selector"
+
+        android:gravity="center"
+        android:onClick="btnvisitor"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:text="visitor"
+        android:textColor="@android:color/black" />
+</LinearLayout>

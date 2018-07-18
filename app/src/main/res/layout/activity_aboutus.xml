@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="     本软件为爱公交1.0版本，实现了线路导航、地图定位、用户登录注册、小游戏等功能。开发人员有：周铮、吴天宇、李芝军、颜帆、何宇。"
+        android:textSize="18sp" />
+</LinearLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/Desktop/BusTool/app/libs/AMap_Search_V3.2.1_20160308.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/AMap_Search_V3.2.1_20160308_4f709d21e97b4f3d30088d95470532a5bc470247.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/BusTool/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_3d5a1ef10493faeb22ff013320cb86bd42eb8b20.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/BusTool/app/libs/AMap_Location_V2.4.1_20160414.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2a48661c11bfafb2dea576904958420c2ad9e06">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/AMap_Location_V2.4.1_20160414_a8d93bbf693c1165d385e1dc2e2a4e165bc1bd82.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/BusTool/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.1_f9a0628928ca29cb00f2ee7c1b09a8dd0ba052c5.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/BusTool/app/libs/AMap_2DMap_V2.8.1_20160202.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0109d970ab16fff07a9a2f22149aecdc1195a4c2">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/AMap_2DMap_V2.8.1_20160202_c4663d646d1a882d42d024af0d9806ab393c4ebb.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/BusTool/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/gson-2.3.1_6647257e7eef04dda2a66dffe7e6385e84f30bfa.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/BusTool/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_4c89ae4564d07e8372d79612118526e07afc7f21.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_17122b77222f755aaf59f10ba560ddec05bbf896.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/BusTool/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_68068728ea84f49126b566d11c4537a46b6cf134.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/apple/Desktop/BusTool/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_74ef02b1468eb5f278fa947e0162785a256b3488.jar" />
+    </item>
+
+</items>
